@@ -1,0 +1,19 @@
+{
+  "name": "nationsbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "noblox.js": "^4.2.6",
+    "roblox-js": "^4.0.4"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
